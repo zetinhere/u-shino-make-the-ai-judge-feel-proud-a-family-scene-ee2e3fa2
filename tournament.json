@@ -1,0 +1,206 @@
+{
+  "finalists": [
+    {
+      "text": "My daughter asked why Grandpa's phone has such big numbers, and Grandpa said, 'So I can see who's ignoring me,' and then he answered her call on the first ring, every single time.",
+      "rubric": 54,
+      "points": 2.1
+    },
+    {
+      "text": "Dad taught me to ride a bike by running behind me shouting, 'I've got you!' — and I only found out years later that he'd let go on the first day, because the shouting never stopped.",
+      "rubric": 50,
+      "points": 0.5999999999999999
+    },
+    {
+      "text": "When my son was five he drew our family on the fridge, and he drew me twice as tall as everyone else, and I have never told him it was a mistake, because some days I still need to be that big.",
+      "rubric": 50,
+      "points": 1.2
+    },
+    {
+      "text": "Dad's 'famous' pancakes are still burnt on one side, and Mum still eats the burnt side, and when I asked her why, she said, 'Because somebody has to love the burnt bits, and I picked your father.'",
+      "rubric": 50,
+      "points": 2.05
+    },
+    {
+      "text": "Mum still cuts the crusts off Dad's sandwiches, and Dad still pretends he didn't notice, and after thirty years the only thing they've ever agreed on is that the crusts belong to the dog, who has never once complained.",
+      "rubric": 50,
+      "points": 1.5
+    },
+    {
+      "text": "My daughter taught Grandma to video-call, and now Grandma rings every morning to show us her breakfast, and the cat, and the weather — all from a camera aimed squarely at the ceiling, and none of us has the heart to tell her.",
+      "rubric": 50,
+      "points": 1.8
+    },
+    {
+      "text": "Every Christmas my mum wraps Dad's present in last year's paper, and Dad acts surprised, and the paper has now outlived three toasters, two kettles, and one very patient marriage.",
+      "rubric": 49,
+      "points": 1.55
+    },
+    {
+      "text": "When I was seven I asked Mum why Dad always got the biggest piece of cake, and she said, 'Because he does the washing up,' and twenty years later I still check who did the washing up before I cut.",
+      "rubric": 48,
+      "points": 1.8
+    },
+    {
+      "text": "At dinner my little brother announced he was going vegetarian, then asked for the last chicken leg 'for the dog,' and Mum put it on his plate without a word, because mothers know a negotiator when they see one.",
+      "rubric": 48,
+      "points": 1.5
+    },
+    {
+      "text": "My little sister still believes Dad's 'dad tax' — one chip from every bag — is a real government law, and Dad has never corrected her, because some taxes, he says, are worth paying.",
+      "rubric": 47,
+      "points": 1.8
+    },
+    {
+      "text": "Every night my father checks that the front door is locked twice, and every night my mother unlocks it once so the cat can get in, and the cat has never once thanked either of them, which is exactly how it should be.",
+      "rubric": 46,
+      "points": 1.55
+    },
+    {
+      "text": "On the last night before my son left for college, we did the dishes together in silence — he dried, I washed — and neither of us said that the sink had never felt so big, or the house so quiet.",
+      "rubric": 44,
+      "points": 0.5499999999999998
+    }
+  ],
+  "standings": [
+    0,
+    3,
+    5,
+    7,
+    9,
+    6,
+    10,
+    4,
+    8,
+    2,
+    1,
+    11
+  ],
+  "games": [
+    {
+      "round": 1,
+      "a": 0,
+      "b": 1,
+      "sa": 0.8,
+      "sb": 0.19999999999999996
+    },
+    {
+      "round": 1,
+      "a": 2,
+      "b": 3,
+      "sa": 0.19999999999999996,
+      "sb": 0.8
+    },
+    {
+      "round": 1,
+      "a": 4,
+      "b": 5,
+      "sa": 0.19999999999999996,
+      "sb": 0.8
+    },
+    {
+      "round": 1,
+      "a": 6,
+      "b": 7,
+      "sa": 0.25,
+      "sb": 0.75
+    },
+    {
+      "round": 1,
+      "a": 8,
+      "b": 9,
+      "sa": 0.19999999999999996,
+      "sb": 0.8
+    },
+    {
+      "round": 1,
+      "a": 10,
+      "b": 11,
+      "sa": 0.8500000000000001,
+      "sb": 0.14999999999999997
+    },
+    {
+      "round": 2,
+      "a": 10,
+      "b": 0,
+      "sa": 0.19999999999999996,
+      "sb": 0.8
+    },
+    {
+      "round": 2,
+      "a": 3,
+      "b": 5,
+      "sa": 0.75,
+      "sb": 0.25
+    },
+    {
+      "round": 2,
+      "a": 9,
+      "b": 7,
+      "sa": 0.19999999999999996,
+      "sb": 0.8
+    },
+    {
+      "round": 2,
+      "a": 6,
+      "b": 1,
+      "sa": 0.8,
+      "sb": 0.19999999999999996
+    },
+    {
+      "round": 2,
+      "a": 2,
+      "b": 4,
+      "sa": 0.19999999999999996,
+      "sb": 0.8
+    },
+    {
+      "round": 2,
+      "a": 8,
+      "b": 11,
+      "sa": 0.8,
+      "sb": 0.19999999999999996
+    },
+    {
+      "round": 3,
+      "a": 0,
+      "b": 3,
+      "sa": 0.5,
+      "sb": 0.5
+    },
+    {
+      "round": 3,
+      "a": 7,
+      "b": 5,
+      "sa": 0.25,
+      "sb": 0.75
+    },
+    {
+      "round": 3,
+      "a": 6,
+      "b": 10,
+      "sa": 0.5,
+      "sb": 0.5
+    },
+    {
+      "round": 3,
+      "a": 4,
+      "b": 8,
+      "sa": 0.5,
+      "sb": 0.5
+    },
+    {
+      "round": 3,
+      "a": 9,
+      "b": 1,
+      "sa": 0.8,
+      "sb": 0.19999999999999996
+    },
+    {
+      "round": 3,
+      "a": 2,
+      "b": 11,
+      "sa": 0.8,
+      "sb": 0.19999999999999996
+    }
+  ]
+}
